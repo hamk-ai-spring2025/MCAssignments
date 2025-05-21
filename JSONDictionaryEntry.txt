@@ -1,0 +1,28 @@
+User word: Forest
+JSON entry: 
+```json
+{
+    "word": "Forest",
+    "definition": "A large area covered chiefly with trees and undergrowth, typically forming a habitat for wildlife.",
+    "synonyms": [
+        "woods",
+        "woodland",
+        "jungle",
+        "timberland",
+        "grove",
+        "thicket"
+    ],
+    "antonyms": [
+        "desert",
+        "prairie",
+        "plain",
+        "steppe",
+        "tundra"
+    ],
+    "examples": [
+        "We hiked for hours through the dense forest.",
+        "Many animals make their homes in the forest.",
+        "The forest was quiet except for the sound of birds."
+    ]
+}
+```
